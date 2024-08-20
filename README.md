@@ -8,7 +8,7 @@
 
 ![Drew Feig (2)](https://github.com/user-attachments/assets/b3a2b5e8-5f3b-4226-aa2e-e24d64ff05c6)
 
-Here are the README.md paragraph points for the images you've uploaded:
+Here are the points for the images:
 
 ### Image 1: Curve
 - **Description:** This image presents a multi-class Receiver Operating Characteristic (ROC) curve, which is used to visualize the performance of a classification model across multiple classes. Each colored line represents a different class, and the curve shows the trade-off between the true positive rate and false positive rate.
@@ -34,5 +34,3 @@ Here are the README.md paragraph points for the images you've uploaded:
 - **Description:** Similar to the previous image, this one shows additional rows of text data, likely part of the same dataset. The text data could be used for tasks such as spam detection, sentiment analysis, or chat analysis.
 - **Purpose:** To provide more examples of text data that can be used in NLP tasks, emphasizing the variety and structure of the data.
 - **Usage:** Suitable for guides or tutorials focused on preparing text data for NLP, illustrating the raw data that needs to be cleaned, tokenized, and analyzed.
-
-These descriptions offer clear guidance on the purpose and usage of each image, helping users understand different aspects of data analysis, machine learning model evaluation, and dataset collection. Each point is tailored to assist in the documentation of processes involving data handling and machine learning tasks.
